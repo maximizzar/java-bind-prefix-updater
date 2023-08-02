@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/prefix-swapper.iml" filepath="$PROJECT_DIR$/prefix-swapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-bind-prefix-updater.iml" filepath="$PROJECT_DIR$/java-bind-prefix-updater.iml" />
     </modules>
   </component>
 </project>
